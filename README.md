@@ -11,7 +11,7 @@ $ npm init react-app tutorial
 
 Cuando se termine de crear el proyecto, tendrá la siguiente estructura.
 
-![primero](capturas/1.jpg)
+![primero](https://github.com/gcmurillo/react_tutorial/blob/master/capturas/1.jpg)
 
 Nuestro archivo principal es el `App.js`
 
@@ -52,11 +52,11 @@ $ npm start
 
 En nuestro terminal
 
-![segundo](capturas/2.jpg)
+![segundo](https://github.com/gcmurillo/react_tutorial/blob/master/capturas/2.JPG)
 
 En nuestro navegador
 
-![tercero](capturas/3.jpg)
+![tercero](https://github.com/gcmurillo/react_tutorial/blob/master/capturas/3.JPG)
 
 Hemos levantado nuestra app localmente, pero queda más por resolver. 
 
@@ -98,4 +98,4 @@ function App() {
 }
 ```
 
-![cuarto](capturas/4.jpg)
+![cuarto](https://github.com/gcmurillo/react_tutorial/blob/master/capturas/4.JPG)
